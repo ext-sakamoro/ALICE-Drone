@@ -10,7 +10,7 @@ Drone / UAV flight control library for the ALICE ecosystem. Pure Rust implementa
 |------|-------|
 | **Crate** | `alice-drone` |
 | **Version** | 1.0.0 |
-| **License** | AGPL-3.0 |
+| **License** | LicenseRef-Proprietary |
 | **Edition** | 2021 |
 
 ## Features
